@@ -4,9 +4,6 @@ math: true
 ---
 
 
-***Attention:*** To get started on the exercise, visit the Piazza post to create your team repo.
-
-
 ------
 
 In this section, we will explore population dynamics of multiple interacting species; or more generally, dynamics in multiple variables.  Previously, our only _dynamic_ variable was a single focal population, sometimes called `x`, or squirrels, that could change over time in response to how many other squirrels there were.  All other aspects of system were fixed: such as the environmental conditions responsible for determining the growth rate `r` and carrying capacity `K`.  In this exercise, you will explore what happens when we start accounting for multiple species interacting with each other.
